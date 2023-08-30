@@ -1,3 +1,5 @@
 create
 update
 update #2
+
+test squash
