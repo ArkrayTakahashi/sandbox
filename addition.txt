@@ -4,3 +4,4 @@ addition in main
 addition in main 2
 
 test squash
+test merge
