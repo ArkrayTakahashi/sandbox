@@ -4,4 +4,4 @@ hogehoge
 branch-a
 branch-b
 
-release v1.0.0
+release v1.0.1
