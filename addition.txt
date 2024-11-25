@@ -5,3 +5,6 @@ addition in main 2
 
 test squash
 test merge
+
+fix-1
+fix-2
