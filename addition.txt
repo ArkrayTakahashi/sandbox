@@ -7,3 +7,4 @@ test squash
 test merge
 
 fix-1
+fix-2
